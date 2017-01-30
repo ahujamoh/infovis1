@@ -112,7 +112,6 @@ d3.parcoords = function(config) {
         // yscale
         var defaultScales = {
             "date": function(k) {
-                console.log("date + autoscale");
                 return d3.time.scale()
                     .domain(d3.extent(__.data, function(d) {
                         return d[k] ? d[k].getTime() : null;
@@ -120,13 +119,11 @@ d3.parcoords = function(config) {
                     .range([h()+1, 1])
             },
             "number": function(k) {
-                console.log("number + autoscale");
                 return d3.scale.linear()
                     .domain(d3.extent(__.data, function(d) { return +d[k]; }))
                     .range([h()+1, 1])
             },
             "string": function(k) {
-                console.log("string + autoscale"+__);
                 return d3.scale.ordinal()
                     .domain(__.data.map(function(p) { return p[k]; }))
                     .rangePoints([h()+1, 1])
@@ -141,6 +138,12 @@ d3.parcoords = function(config) {
         pc.dimensions(pc.dimensions().filter(function(p,i) {
             var uniques = yscale[p].domain().length;
             if (__.types[p] == "string" && (uniques > 60 || uniques < 2)) {
+                //removing all strings field
+                return false;
+            }
+            if(uniques == 2 && (yscale[p].domain()[1] > 10)) {
+                //removing all fields which have higher than 10 on the scale,
+                // the number and data fields should be filtered out
                 return false;
             }
             return true;
@@ -148,8 +151,6 @@ d3.parcoords = function(config) {
 
         // xscale
         xscale.rangePoints([0, w()], 1);
-        console.log(w());
-        console.log(xscale);
 
         // canvas sizes
         pc.selection.selectAll("canvas")
@@ -321,7 +322,6 @@ d3.parcoords = function(config) {
     };
 
     pc.updateAxes = function() {
-        console.log("called udpateAxes");
         var g_data = pc.svg.selectAll(".dimension")
             .data(__.dimensions, function(d) { return d; })
 
@@ -380,7 +380,6 @@ d3.parcoords = function(config) {
 
 // Jason Davies, http://bl.ocks.org/1341281
     pc.reorderable = function() {
-        console.log("reorderable");
         if (!g) pc.createAxes();
 
         g.style("cursor", "move")
@@ -421,7 +420,6 @@ d3.parcoords = function(config) {
 // Get data within brushes
     pc.brush = function() {
         __.brushed = selected();
-        console.log(selected());
         events.brush.call(pc,__.brushed);
         pc.render();
     };
