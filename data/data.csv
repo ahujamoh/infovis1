@@ -1,0 +1,75 @@
+Number,Interests,IVIS,Stats,Math,Art,User,Prog,Graphics,HCI,UX,Alias
+1,"[""visual design"", ""filmmaking""] ",7,3,3,9,6,2,1,4,8,Aldor
+2,"[""aviation"", ""cooking"", ""fitness"", ""sports"", ""art""] ",5,4,3,6,7,3,1,4,8,Aragorn
+3,[],3,3,3,3,8,8,3,3,3,Arwen
+4,"[""graphic design"", ""3D modeling""]",3,4,4,6,8,2,1,2,7,Balin
+5,"[""science"", ""sports"", ""fashion"", ""travel""]",3,5,6,8,6,3,5,3,5,Bereg
+6,"[""graphic illustration"", ""hacking"", ""prototyping"", ""videogames""]",4,4,5,6,10,7,7,6,7,Bifur
+7,"[""javascript"", ""design"", ""open source"", ""freelance"", ""typography""]",6,5,8,7,8,7,7,7,8,Bilbo
+8,[],4,4,6,5,7,7,3,3,2,Bofur
+9,"[""travel"", ""sports"", ""running"", ""yoga"", ""cycling"", ""photography"", ""coffee"", ""gender equality"", ""diversity"", ""education"", ""human rights""]",4,6,6,2,6,5,1,5,8,Bombadil
+10,"[""sports"", ""painting"", ""illustration"", ""programming""]",1,4,5,10,7,4,2,3,6,Bombur
+11,"[""reading"", ""music"", ""art"", ""bikes"", ""travel"", ""technology"", ""programming"", ""humor""]",2,4,2,6,6,2,1,4,10,Borin
+12,"[""web development"", ""competitive programming"", ""data science"" ""machine learning""]",3,5,5,1,7,8,2,6,5,Boromir
+13,"[""art"", ""culture"", ""education"", ""science"", ""technology""]",3,9,9,3,10,10,3,3,9,Bounder
+14,"[""digital democracy"", ""digital literacy"", ""accessibility"", ""usability"", ""tvshows"", ""travel"", ""cooking""]",7,6,5,6,8,4,1,6,7,Celeborn
+15,[],3,2,5,6,7,1,2,3,8,Damrod
+16,"[""reading"", ""magic"", ""training"", ""nature""]",1,3,3,5,8,5,1,1,2,Deagol
+17,[],7,8,6,2,8,9,6,3,6,Denethor
+18,[],4,4,4,6,5,4,1,5,6,Dorlas
+19,"[""music"", ""dance"", ""travel""]",3,3,6,7,7,6,1,5,5,Dwalin
+20,"[""music"", ""sports""]",3,4,9,8,8,3,2,8,9,Eldarion
+21,"[""programming"", ""illustrations"", ""3D-modeling"", ""books"", ""games"", ""movies""]",5,3,5,6,7,7,4,6,5,Elendil
+22,[],3,3,5,2,7,5,2,6,9,Elendur
+23,"[""skiing"", ""videogames"", ""workout"", ""programming""]",3,10,8,1,6,9,4,3,3,Elrond
+24,"""art"", ""music"", ""machine learning""]",7,9,7,3,9,8,7,6,1,Eomer
+25,"[""music"", ""programming"", ""graphics"", ""videogames""]",5,5,7,4,9,9,8,4,3,Eothain
+26,"[""travel"", ""photograph""]",2,4,4,4,4,2,6,4,4,Eowyn
+27,"[""sketching"", ""hacking"", ""cooking""]",5,4,8,7,9,8,5,6,6,Faramir
+28,"[""graphic design"", ""photography"", ""bartending""]",5,2,3,4,8,5,3,4,1,Ferny
+29,"[""programming"", ""application development""]",5,5,5,4,5,5,4,5,5,Fili
+30,"[""startups"", ""arts"", ""photography""]",3,3,9,7,7,2,2,3,8,Freda
+31,"[""graphics"" , ""climbing""]",3,3,4,4,6,5,3,4,3,Frodo
+32,"[""programming"", ""art"",  ""sports"",  ""startups""]",7,5,6,7,9,8,7,8,5,Galadriel
+33,"[""videogames""]",2,4,6,2,7,6,2,4,3,Gamgee
+34,[],4,6,8,1,9,8,6,5,5,Gandalf
+35,"[""diving"", ""wildlife"" , ""painting""]",3,3,4,9,7,1,1,1,1,Gimli
+36,"[""science"", ""art"", ""technology"", ""society"". ""programming"", ""music"", ""cooking""]",4,2,2,4,9,1,1,1,6,Gollum
+37,"[""programming"",""videogames"", ""movies"", ""tvshows"", ""books"", ""cooking""]",5,2,5,5,9,7,3,6,3,Gorbag
+38,"[""cooking"", ""eating"", ""beer""]",4,4,7,5,9,6,1,1,4,Grimbold
+39,"[""machine learning"", ""beer""]",5,8,6,2,7,8,5,4,3,Grishnakh
+40,"[""kitesurfing"", ""freediving"", ""surfing"", ""skiing"", ""product development""]",3,3,4,7,8,2,1,2,2,Haldir
+41,"[""HCI"", ""programming"", ""reading"", ""youtube""]",2,3,3,4,6,3,1,4,5,Haleth
+42,"[""programming""]",7,8,8,7,9,8,8,7,8,Hama
+43,[],2,4,7,9,7,2,2,3,8,Hardang
+44,[],6,3,3,8,10,5,3,5,5,Idril
+45,"[""astronomy"", ""virtual reality"", ""videogames"", ""music""]",5,4,5,2,7,7,4,6,5,Irolas
+46,"[""game development"", ""music""]",4,5,5,4,8,8,3,5,5,Isildur
+47,"[""documentaries"", ""badminton"", ""eating""]",3,5,5,1,6,6,3,5,8,Kili
+48,"[""application development"", ""technology"", ""sports""]",4,4,4,7,8,8,4,4,4,Legolas
+49,"[""photography"", ""music"", ""design"", ""tecnology""]",2,2,5,2,7,4,1,4,4,Lindir
+50,"[""climbing"", ""reading"", ""coffee""]",3,6,7,6,8,8,3,4,5,Lurtz
+51,"[""photography"", ""music"", ""technology""]",4,4,5,4,9,5,2,7,5,Madril
+52,"[""programming"", ""investment"", ""painting"", ""sports""]",6,5,5,7,7,4,2,5,6,Maiar
+53,"[""programming"", ""reading"", ""socializing"", ""drawing"", ""videogames""]",7,2,5,8,9,6,2,6,7,Mauhur
+54,"[""travel"", ""drawing"", ""cooking""]",5,6,7,8,7,6,4,4,8,Merry
+55,"[""sports"", ""trampoline"", ""videogames"",  ""programming"", ""virtual reality"", ""music""]",3,5,4,3,10,6,2,7,5,Morwen
+56,"[""design"", ""smart homes"", ""photography"", ""filming""]",1,1,1,2,2,1,1,1,2,Nessa
+57,"[""technology"", ""science"", ""videogames"", ""nature"", ""fitness]",2,2,1,3,4,4,1,2,2,Ohtar
+58,"[""music"", ""piano"", ""culture""]",7,5,8,5,8,9,7,9,7,Oin
+59,[],6,3,4,6,10,7,5,9,7,Otho
+60,"[""drumset""]",2,5,4,3,4,5,4,4,1,Pelendur
+61,"[""art"", ""design"", ""videogames"", ""programming""]",7,2,2,8,10,7,2,5,2,Pippin
+62,"[""design"", ""product design"", ""graphic design"", ""logo design"", ""photography"", ""travel""]",3,3,5,8,8,2,3,3,3,Quickbeam
+63,"[""boardgames"", ""videogames"", ""art"", ""books"", ""movies"", ""music""]",3,5,5,2,8,5,3,4,4,Rian
+64,[],6,3,5,9,8,4,4,4,9,Sam
+65,"[""sports"", ""dancing"", ""hiking"", ""travelling""]",3,9,7,2,9,6,5,3,3,Sauron
+66,"[""sports"", ""movies"", ""tvshows"", ""art""]",3,3,5,6,7,2,1,1,4,Shagrat
+67,[],2,7,5,4,6,1,1,1,8,Sharku
+68,"[""technology"", ""innovation""]",7,4,4,6,10,8,5,7,6,Smaug
+69,"""history"", ""statistics"", ""videogames"", ""films"", ""painting, cooking.",3,3,5,7,9,3,2,3,8,Smeagol
+70,"[""creative design"", ""videogames"", ""applications""]No hobbies but am interested in many things.",3,5,8,1,9,2,1,1,3,Theoden
+71,"[""beer"", ""programming"", ""OpenGL""]",4,8,8,5,9,7,9,8,4,Theodred
+72,"[""music"",""photography"", ""hiking""]",7,6,7,2,10,8,6,7,7,Thorin
+73,"[""movies"", ""videogames"", ""ice hockey""]",4,3,5,5,8,6,4,4,2,Ugluk
+74,"[""gokarting"", ""cooking"", ""manga"", ""anime"", ""basketball"", ""movies"", ""fiction""]",5,8,7,7,9,9,8,7,7,Uruk
