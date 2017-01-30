@@ -1,4 +1,4 @@
-Number,Interests,IVIS,Stats,Math,Art,User,Prog,Graphics,HCI,UX,Alias
+Number,Interests,Information Visualization,Statistics,Mathematics,Artistic,User,Programming,Graphics,HCI,User Experience,Alias
 1,"[""visual design"", ""filmmaking""] ",7,3,3,9,6,2,1,4,8,Aldor
 2,"[""aviation"", ""cooking"", ""fitness"", ""sports"", ""art""] ",5,4,3,6,7,3,1,4,8,Aragorn
 3,[],3,3,3,3,8,8,3,3,3,Arwen
@@ -68,7 +68,7 @@ Number,Interests,IVIS,Stats,Math,Art,User,Prog,Graphics,HCI,UX,Alias
 67,[],2,7,5,4,6,1,1,1,8,Sharku
 68,"[""technology"", ""innovation""]",7,4,4,6,10,8,5,7,6,Smaug
 69,"""history"", ""statistics"", ""videogames"", ""films"", ""painting, cooking.",3,3,5,7,9,3,2,3,8,Smeagol
-70,"[""creative design"", ""videogames"", ""applications""]No hobbies but am interested in many things.",3,5,8,1,9,2,1,1,3,Theoden
+70,"[""creative design"", ""videogames"", ""applications""]",3,5,8,1,9,2,1,1,3,Theoden
 71,"[""beer"", ""programming"", ""OpenGL""]",4,8,8,5,9,7,9,8,4,Theodred
 72,"[""music"",""photography"", ""hiking""]",7,6,7,2,10,8,6,7,7,Thorin
 73,"[""movies"", ""videogames"", ""ice hockey""]",4,3,5,5,8,6,4,4,2,Ugluk
